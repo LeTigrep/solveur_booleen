@@ -53,4 +53,4 @@ permettre de résoudre le système
 ![alt text](image-3.png)
 
 ![alt text](image-4.png)
-remarque: la fonction arrive à trouver V(2) qui est VRAI mais pas V(5) car ce dernier ne fait pas partis de l’environnemen
+Remarque: la fonction arrive à trouver V(2) qui est VRAI mais pas V(5) car ce dernier ne fait pas partie de l’environnement
