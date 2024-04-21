@@ -2,7 +2,7 @@
 
 ## Présentation du projet 
 
-Réalisé lors de ma deuxième année de Licence informatique en Programmation Fonctionelle. 
+Ce projet a été réalisé lors de ma deuxième année de Licence informatique en Programmation Fonctionelle. 
 L’objectif du devoir est de concevoir un solveur booléen en Ocaml dont le but
 est de pouvoir calculer l’ensemble des solutions d’un système d’équation. L’algorithme de ce
 solveur doit fonctionner en trois étapes. La première va permettre de déterminer l’ensemble
