@@ -44,9 +44,8 @@ permettre de résoudre le système
 
 ## jeux d'essais
 
-![étape 1 de l’algorithme](image.png)
-![étape 2 de l’algorithme](image-1.png)
-![étape 3 de l’algorithme](image-4.png)
-![fonction de combinaison](image-2.png)
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 ![alt text](image-4.png)
-
