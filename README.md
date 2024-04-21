@@ -48,5 +48,5 @@ permettre de résoudre le système
 ![étape 2 de l’algorithme](image-1.png)
 ![étape 3 de l’algorithme](image-4.png)
 ![fonction de combinaison](image-2.png)
-![fonction `valeur_asso`](image-3.png)
+![alt text](image-4.png)
 
