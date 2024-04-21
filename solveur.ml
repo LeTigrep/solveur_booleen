@@ -51,7 +51,7 @@ let nand v1 v2 = not(et v1 v2);;
  
 (*fonction pour etudier l'appartenance d'un éléments à une liste*)
 
-let rec appartient x l = match l with [] -> false | e :: li -> if x = e then true else appartient xli;;
+let rec appartient x l = match l with [] -> false | e :: li -> if x = e then true else appartient x li;;
  
 (* fonction pour éliminer les doublons *)
 let rec eliminer_doublons liste = match liste with
